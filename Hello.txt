@@ -10,11 +10,9 @@ hotfix
 
 SDFGDSAFG
 
-<<<<<<< HEAD
 
 
 master also changed
-=======
+
 Aslesh 
 
->>>>>>> aslesh
